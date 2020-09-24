@@ -60,7 +60,7 @@ Tech: Expressjs, Knex, Bookshelf, Emberjs, Handlebars
 
 * Fixed keyboard shortcut not working inside token input. ([Admin#1707](https://github.com/TryGhost/Ghost-Admin/pull/1707))
 
-[>>> More on Ghost](https://github.com/TryGhost/Ghost/pulls?q=is%3Apr+author%3Asainthkh)
+[>>> More on Ghost](https://github.com/TryGhost/Ghost/pulls?q=is%3Apr+author%3Asainthkh)  
 [>>> More on Ghost Admin](https://github.com/TryGhost/Ghost-Admin/pulls?q=is%3Apr+author%3Asainthkh)
 
 ### Gutenberg
