@@ -33,24 +33,26 @@ I could do and write all of these because I've learned them from someone else. D
 
 What I'm learning:
 
-* accessibility by applying what I've learned to Ghost Editor.
-* Emberjs 
+* Chrome Dev Tools
+* Web browser internals. 
 
 What I'm working on:
 
-* Cypress: reviving closed PRs because of the inactivity.
-* Ghost bugs: researching the codebase and learning Emberjs by fixing bugs.
+* Cypress: fixing bugs with the tag, [internal priority](https://github.com/cypress-io/cypress/labels/pkg%2Fdriver).
+* Ghost: fix bugs.
+* Preparing YouTube Channel for beginners.
 
 ## Open Source Contribution History
 
 ### Cypress
 
-Tech: TypeScript, Commanderjs, Nodejs, React, Mobx, DOM
+Tech: TypeScript, Commanderjs, Nodejs, React, Mobx, DOM, Express
 
 * Add out-of-the-box TypeScript support ([#5906](https://github.com/cypress-io/cypress/pull/5906))
 * Improve element visibility algorithm (CSS transform, backface visibility) ([#5590](https://github.com/cypress-io/cypress/pull/5590), [#5916](https://github.com/cypress-io/cypress/pull/5916))
 * Improve type definition of APIs ([#6327](https://github.com/cypress-io/cypress/pull/6327), [#7806](https://github.com/cypress-io/cypress/pull/7806), [#8068](https://github.com/cypress-io/cypress/pull/8068))
 * Improve click and type automation ([#8114](https://github.com/cypress-io/cypress/pull/8114), [#8255](https://github.com/cypress-io/cypress/pull/8255), [#8305](https://github.com/cypress-io/cypress/pull/8305))
+* Fix bugs in Cypress network mocking server ([#8978](https://github.com/cypress-io/cypress/pull/8978), [#8965](https://github.com/cypress-io/cypress/pull/8965), [#8829](https://github.com/cypress-io/cypress/pull/8829))
 
 [>>> More](https://github.com/cypress-io/cypress/pulls?q=is%3Apr+author%3Asainthkh)
 
@@ -90,3 +92,5 @@ Tech: Nodejs
 * Detect files added to/removed from directories ([#2615](https://github.com/parcel-bundler/parcel/pull/2615))
 
 [>>> More](https://github.com/parcel-bundler/parcel/pulls?q=is%3Apr+author%3Asainthkh)
+
+Ver. 1.1.0 (2020-11-03)
